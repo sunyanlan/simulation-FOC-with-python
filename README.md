@@ -1,6 +1,6 @@
 # simulation-FOC-with-python
 
-# ru
+# run
 cd code     
 python main.py   
 
